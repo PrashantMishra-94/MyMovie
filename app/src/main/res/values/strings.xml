@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="api_key">38a73d59546aa378980a88b645f487fc</string>
+    <string name="rating">Rating - %f</string>
+</resources>
